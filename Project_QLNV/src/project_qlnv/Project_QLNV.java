@@ -18,6 +18,8 @@ public class Project_QLNV {
         // TODO code application logic here
        Employee_Manager employee = new Employee_Manager();
        employee.show();
+       Employee_Information info = new Employee_Information();
+       info.show();
     }
     
 }
