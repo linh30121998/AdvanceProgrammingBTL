@@ -16,7 +16,7 @@ public class Project_QLNV {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-       Employee_Manager employee = new Employee_Manager();
+       Schedule employee = new Schedule();
        employee.show();
        Employee_Information info = new Employee_Information();
        info.show();
